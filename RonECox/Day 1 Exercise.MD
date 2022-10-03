@@ -1,4 +1,4 @@
-__Data Science Goals__
+#__Data Science Goals__
 1. __Goal October 2023:__ Secure a work from anywhere (WFA) Data Science related position
 2. __Goal October 2024:__ Acquire additional Data Science related certifications
 3. __Capstone Role:__ Either Data Analyst or Data Engineer; definately not Analytic Application Developer

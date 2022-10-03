@@ -1,0 +1,11 @@
+- List one goal for between now and October 2023
+  - Gain needed Certificates
+  - Well developed Portfolio
+- List one goal for between now and October 2024
+  - Good stature for data science within industry
+- Choose a role for your capstone
+  - DS Data Scientist
+- Your portfolio will increase the broader and deepr the experience you get during this class. Do you want to pursue a personal Capstone?
+  - Yes
+- If you answered YES to Question 4, list first idea of goals for Capstone
+  - Datapoint set for gathering needed data in relation to mental health and military/first responders

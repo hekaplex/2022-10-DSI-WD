@@ -1,0 +1,1 @@
+bcp AnalyticsCapstoneTwitter.dbo.loaded_capture_twitter_10M in E:\Scrubix\ubix_worlds\foo\loaded_capture_twitter_10M.csv  -c -S2022dsiwd.database.windows.net -Uadmin2022dsiwd -PDivergence!2022dsiwd -t, -q

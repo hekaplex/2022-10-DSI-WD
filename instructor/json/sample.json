@@ -1,0 +1,40 @@
+{
+	"sample_schema_unifed":
+{
+"orderid":"SO547",
+"lineitems":[
+	{
+		"lineitem": 1,
+		"productid":"PD-11",
+		"quantity":2
+	},
+	{
+		"lineitem": 2,
+		"productid":"PD-10",
+		"quantity":2
+	}
+]
+}
+,
+"sample_schema_parent":
+{
+"orderid":"SO547",
+"lineitems":["xyz-pdz","abc-123"]
+}
+,
+"sample_schema_child":
+{
+"lineitems":[
+	{
+		"lineitem": "xyz-pdz",
+		"productid":"PD-11",
+		"quantity":2
+	},
+	{
+		"lineitem": "abc-123",
+		"productid":"PD-10",
+		"quantity":2
+	}
+]
+}
+}

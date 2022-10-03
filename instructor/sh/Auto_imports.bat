@@ -1,0 +1,3 @@
+bcp AnalyticCapstoneAutoShipments.dbo.ABSD_SHIP_SEARCH in E:\Scrubix\ubix_worlds\ihs_automotive\ABSD_SHIP_SEARCH.txt  -c -S2022dsiwd.database.windows.net -Uadmin2022dsiwd -PDivergence!2022dsiwd -t, -q
+bcp AnalyticCapstoneAutoShipments.dbo.tblCombMovementCalls in E:\Scrubix\ubix_worlds\ihs_automotive\tblCombMovementCalls.txt  -c -S2022dsiwd.database.windows.net -Uadmin2022dsiwd -PDivergence!2022dsiwd -t, -q
+bcp AnalyticCapstoneAutoShipments.dbo.tblAllAISFiles in E:\Scrubix\ubix_worlds\ihs_automotive\tblAllAISFiles.txt  -c -S2022dsiwd.database.windows.net -Uadmin2022dsiwd -PDivergence!2022dsiwd -t, -q

@@ -19,3 +19,5 @@ Depends on how the class goes...
 ## Personal Capstone Goal
 
 In a perfect world I would be able to develop something that would help me analyze potential rental properties throughout the United States using data from various sources.
+
+=======

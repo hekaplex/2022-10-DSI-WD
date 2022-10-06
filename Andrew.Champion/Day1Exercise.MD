@@ -6,7 +6,8 @@
 - Choose a role for your capstone
   - DS Data Scientist
 - Your portfolio will increase the broader and deepr the experience you get during this class. Do you want to pursue a personal Capstone?
-  - Yes
+  - Unsure
 - If you answered YES to Question 4, list first idea of goals for Capstone
   - Datapoint set for gathering needed data in relation to mental health and military/first responders
-  - testing environment
+  - Map progress of completion
+

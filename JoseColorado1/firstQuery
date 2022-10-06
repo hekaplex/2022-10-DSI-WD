@@ -1,0 +1,12 @@
+--how many different columnNames does each tableName got?
+--
+
+--select * from INFORMATION_SCHEMA.COLUMNS
+
+select TABLE_NAME,
+count(*) as def_col_names
+
+from INFORMATION_SCHEMA.COLUMNS
+group by TABLE_NAME
+having count(*)> 10
+order by 2 desc

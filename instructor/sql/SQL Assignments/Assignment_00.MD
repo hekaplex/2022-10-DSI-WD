@@ -1,4 +1,4 @@
-### SQL Exercise One
+--### SQL Exercise One
 1. Pick one or more database from any server 
 1. Write three queries
     1. Write a business question

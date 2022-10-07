@@ -1,0 +1,11 @@
+select SalesYear, 
+sum(SalesTotal) as sum_of_year,
+avg(sum(SalesTotal)) over () as avg_sum
+from SalesTotals	
+
+group by SalesYear
+order by sum(SalesTotal) desc
+
+
+/*select *
+from SalesTotals*/

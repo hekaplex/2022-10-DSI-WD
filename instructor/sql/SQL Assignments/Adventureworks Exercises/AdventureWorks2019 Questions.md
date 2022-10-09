@@ -7,7 +7,6 @@ _[Adapted from SQLZoo](https://sqlzoo.net/wiki)_
 
 1. Give the Store Name of those customers with Total orders over $100000. Include the subtotal plus tax plus freight.
 
-
 ### Medium SQL Questions
 1. A "Single Item Order" is a customer order where only one item is ordered. Show the SalesOrderID and the UnitPrice for every Single Item Order.
 

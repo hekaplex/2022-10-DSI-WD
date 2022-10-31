@@ -1,0 +1,26 @@
+Table,Field
+Population,HispanicTotVal
+Population,BlackTotVal
+Population,WhiteTotVal
+Population,AsianTotVal
+Population,OtherTotVal
+Geo_Dim,State
+Population,Race
+Population,Population Value
+Surrounding Area Population,WhiteSurrVal
+Surrounding Area Population,HispanicSurrVal
+Surrounding Area Population,BlackSurrVal
+Surrounding Area Population,AsianSurrVal
+Surrounding Area Population,OtherSurrVal
+Surrounding Area Population,Race
+Surrounding Area Population,Surrounding Pop Value
+LQ,Race
+LQ,LQAVG
+LQ,LQ Value
+LQ,AsianLQVal
+LQ,BlackLQVal
+LQ,HispanicLQVal
+LQ,OtherLQVal
+LQ,WhiteLQVal
+Population,Grade
+Surrounding Area Population,Grade
